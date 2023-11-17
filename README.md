@@ -1,8 +1,19 @@
-# React + Vite
+# Buscador de Climas
+
+Cuando hayas clonado el repositorio deberas reemplazar la variable appId por una API_KEY propia en la API https://openweathermap.org/appid.
+
+Este proyecto fue realizado para el curso de React del profesor Juan de la Torre Valdez en Udemy.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Clonar repositorio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```javascript
+git clone [repositorio]
+```
+
+# Instalar dependencias
+
+```javascript
+\proyect> npm install
+```
